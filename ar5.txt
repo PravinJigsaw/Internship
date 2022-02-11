@@ -1,0 +1,22 @@
+                               DAY 5 ARTICLE
+                                 7/2/22
+
+
+        Today i started my day by learning DART language,just studing the defintions
+that it is a client optimized language for developing fast apps on any platform,i 
+learned that its the mordern and high level programming language.Afer that i started
+working in the features of the app ive to develop.I learnt what are all the features
+required to built a app.After that i was planning how to make a layout.I learnt to 
+search for many ideas, a website called behannce i went through that website and i 
+took a refernce of those templetes.After that i started seeing video for how to use 
+figma,i learnt how to use the ellipse,rectangle,lines,etc.I started trying those 
+and started creating the layout.I learnt how to add backgrounds and i added it.
+After that i started leaning the basic commands of DART language.After that i
+started leaning if conditions,nested if condition,their syntax basic things,
+for loop,while loop,their syntax etc.After that in today evening session,i learnt
+vim commands like switch,split,go to bottom line,go to top line,how to install 
+plugins to make vim more user friendly and i learnt to use the set numbers.
+i practised those commands in vim today.Thats it for today ive only a few today .
+                                 
+                       
+                                 
