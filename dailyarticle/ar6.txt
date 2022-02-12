@@ -1,0 +1,9 @@
+                               DAY 5 ARTICLE
+                                  8/2/22
+        
+
+             
+              Today i started the day by learning what is figma,i learnt that it is web tool to create application user interface,web designing for creating presentation slides etc.My mentor told me to take reference from a website call-ed dribbble.com.i learnt how they used the figma to create differnet type of la-youts,designs etc.I just took a idea of how to design a application ui.I learnt thebasic things in the figma like the pen tool,adding a rectangle,ellipse,arrow etcWhen we wanna create a app design we start at frames it tells us to choose whichdevice we wanna design.I learnt how to use the background color by changing it 
+and making it to fade and give some professional effects.After that i learnt thehow to make the rectangle box to curve the edges by adjusting the curve numbers.I created the login page using this techniqe.And then i started to add some ima-ges like google logo etc in the login page.I googled how to connect the prototy-pe,like i started to create a sign up text,so that it will take us to the next page when it is clicked.i learnt to make the text that i entered fade out so it
+would look like a name to enter like that.And then i started to create the next
+page which is the sign up page.As i mentioned above i did the same thing for creating the containers.After that i asked kingston what ur role,he explained me about the testing skills etc.He also explained me about the front end and back end.After in todays session we learnt the stratey how to solve the number tile puzzle.In todays evening session sriram explained us how install git and ho to push the file from git,i have some dought after working it out.Ill clear them tommorow.That its for today.                   
